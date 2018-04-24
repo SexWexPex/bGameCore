@@ -1,0 +1,14 @@
+name: bGameCore
+version: 1
+author: BratiwkaSlam
+main: play.bratiwkaslam.gamecore.Main
+
+commands:
+  spawnset:
+    description: Sets the spawn
+  spawntp:
+    description: Tp's you/others to the spawn
+Permissions:
+  Spawnjoin.set:
+    description: Allows you to set the spawn
+    default: op
