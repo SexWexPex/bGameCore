@@ -1,4 +1,4 @@
-#bGameCore
+# bGameCore
 
 Using at GameCloud - http://gamecloud.su/
 
